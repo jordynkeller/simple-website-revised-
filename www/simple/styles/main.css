@@ -1,0 +1,28 @@
+body {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    padding: 0em 1em;
+}
+
+html {
+    background-color: rgb(42, 141, 161);
+}
+
+section {
+    float: left;
+    width: 52%;
+    clear: both;
+}
+
+aside {
+    float: right;
+    width: 45%;
+    clear: inherit;
+}
+
+footer {
+    padding-top: 2em;
+}
